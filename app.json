@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Daily Survey Rewards",
+    "slug": "daily-survey-rewards",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "dailysurveyrewards",
+    "userInterfaceStyle": "automatic",
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "android": {
+      "package": "com.cswaray99.dailySurveyRewards"
+    }
+  }
+}
